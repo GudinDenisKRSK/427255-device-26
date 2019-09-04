@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Денис Гудин](https://up.htmlacademy.ru/htmlcss/26/user/427255).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Иовлев](https://htmlacademy.ru/profile/skywalker).
 
 ---
 
